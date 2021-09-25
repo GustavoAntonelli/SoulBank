@@ -3,3 +3,13 @@
 header{
     background-color: #040740;
 }
+
+#cadastro{
+    background-color: #037F8C;
+    border-radius: 50px;
+}
+
+#cadastro a{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
