@@ -31,7 +31,8 @@ form{
     width: 100%;
     max-width: 400px;
     padding: 50px 30px;
-    background-image: linear-gradient(to bottom, #00BC7E, #108775);
+    /* background-color: #037F8C; */
+    background-image: linear-gradient(to bottom, #037F8C, #0b106b);
     box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
     border-radius: 16px;
 }
